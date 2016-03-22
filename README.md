@@ -2,6 +2,10 @@
 
 General functions when using the Leap Motion with JavaScript
 
+## YouTube
+
+YouTube: 
+
 ## Setup
 
 Make sure you have nodejs and npm installed.
@@ -23,7 +27,3 @@ Run the files by using the command `node filename.js`
 Each file does something a little different, so feel free to look through the code. This mostly includes ogging what the Leap Motion is receiving. You can change it to look for data in the frames, or down to just the hands and even palm_position.
 
 Feel free to play with the scripts and see what data is given for each gesture, or the difference between hand and frame listeners!
-
-## YouTube
-
-YouTube: 
