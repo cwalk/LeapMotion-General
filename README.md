@@ -4,7 +4,7 @@ General functions when using the Leap Motion with JavaScript
 
 ## YouTube
 
-YouTube: 
+YouTube: https://www.youtube.com/watch?v=LOSTZZevH0U
 
 ## Setup
 
